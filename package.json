@@ -1,4 +1,11 @@
 {
+  "name": "chatgpt-clone",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://Administrator.github.io/chatgpt-clone/", 
+  "dependencies": {
+    // ...,
+  {
   "name": "souropachal-clone",
   "version": "0.1.0",
   "private": true,
